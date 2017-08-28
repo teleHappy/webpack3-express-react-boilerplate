@@ -19,4 +19,4 @@ There are probably people thinking: "But wait, there are a bunch of boilerplate 
 
 - Webpack 1.x.x --> many use an outdated version of Webpack. Everything changed when Webpack 2 came out, as a result, the loaders' section has to be edited for the new version.
 
-- Lots of plugins --> other repositories have a bunch of HTML injection plugins, linting, etc. Although that's awesome, it's overkill for a starting point. This repository does not even include styles - add them yourselves, and expand the project as you see fit. This is meant to be a skeleton setup. I find it easier to start from very little and casually build up, as opposed to starting with every library ever and maniacally gutting away anything you don't need.
+- Lots of plugins --> other repositories have a bunch of HTML injection plugins, linting, etc. Although that's awesome, it's overkill for a starting point. This is meant to be a skeleton setup. I find it easier to start from very little and casually build up, as opposed to starting with every library ever and maniacally gutting away anything you don't need.
