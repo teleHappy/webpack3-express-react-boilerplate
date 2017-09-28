@@ -1,3 +1,5 @@
+This is a forked version of ivanempire's webpack3-express-react-boilerplate. There's probably a pun one could make about this fork... but I'll table that for now. :)
+
 # ReactJS-ExpressJS-Webpack3 boilerplate
 Hello there, young padawan! You've stumbled upon my boilerplate. So, what exactly is this?
 
